@@ -1,0 +1,27 @@
+-ABML Amigos
+	Usuario envia solicitud, elimina amigos que ya tenia y acepta o rechaza solicitudes
+-ABML Grupo
+        El usuario crea grupos, agrega gente(modifica), o lo da de baja. No es un grupo de facebook, es una categoria como los circulos de google plus
+-ABML Comentarios
+       	Usuario A comenta el muro de usuario B, Usuario que comenta modifica su comentario, usuario al que le comentan el muro puede eliminar el comentario
+-Gestion de Muro
+	El usuario tiene un muro en el que puede tener comentarios y fotos. Puede eliminar comentarios
+-Gestion de Cumpleaños
+	EL usuario modifica el tiempo en el que se va a notificar sobre los cumpleaños. El usuario decide recibir notificaciones al mail o no
+-Gestion de Notificaciones
+	EL usuario pide ver las notificaciones y muestra 
+		comentarios en el muro
+		comentarios de los albumes,
+		solicitudes de amistad
+-ABML Usuarios
+        EL usuario se registra a la pagina	
+	El usuario da de baja su cuenta
+	El usuario modifica sus datos
+	El usuario puede ver otros usuarios que estan registrados a la pagina
+-ABML Album
+        EL usuario crea un album y le agrega fotos
+	El usuario da de baja un album y/o quita fotos
+-Denunciar Contenido
+	El usuario denuncia un comentario o una foto
+-Iniciar sesion
+	EL usuario se loguea al sistema
