@@ -3,7 +3,7 @@
 
 
 
-- **Integrantes**: Francisco Revoredo, Rodrigo Cardona, Nicolás Collovati, Iván Derlich
+- **Integrantes**: Francisco Revoredo, Rodrigo Cardona, Nicolás Collovati, Iván Derlich (Grupo 1)
 - **Año**: 2016
 - **Materia**: Ingeniería de Software 
 
