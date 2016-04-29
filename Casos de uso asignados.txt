@@ -1,0 +1,4 @@
+Ivan: Iniciar sesion, abml usuario, abml grupos 
+Nico: abml albun, amigos, comentarios
+Rodri: gestion muro, cumpleaños, notificaciones
+Fran: Registrarse, Denunciar contenido, Gestion Administrador
