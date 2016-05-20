@@ -1,0 +1,19 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="659" measuredH="420" mockupW="599" mockupH="400">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="60" y="20" w="599" h="400" measuredW="450" measuredH="400" zOrder="0" locked="true" isInGroup="-1">
+      <controlProperties>
+        <text>A%20Web%20Page%0Ahttp%3A//</text>
+      </controlProperties>
+    </control>
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::List" x="237" y="154" w="286" h="213" measuredW="100" measuredH="191" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>en%206%20dias%20es%20el%20cumpleanos%20de%20PEPE%0A%20%0Aen%2010%20dias%20es%20el%20cimplea%F1os%20de%20ANA%0A%20%0Aen%2030%20dias%20es%20el%20cumplea%F1os%20de%20JUAN%0A%20%0Aen%20Marzo%20es%20el%20cumplea%F1os%20de%20%20%20%20%20%20MARCOS%0A%09%09%09%09%09%09%09GERMAN%0A%09%09%09%09%09%09%09EMILIO%09</text>
+      </controlProperties>
+    </control>
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::SubTitle" x="237" y="106" w="286" h="-1" measuredW="171" measuredH="33" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>CUMPLEA%D1OS</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>
