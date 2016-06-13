@@ -14,5 +14,9 @@ $RECYCLE.BIN/
 *.msm
 *.msp
 
+
 # Windows shortcuts
 *.lnk
+
+# Temporal Files
+*.tmp
